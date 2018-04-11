@@ -1,0 +1,7 @@
+[package]
+name = "nostdexe"
+version = "0.1.0"
+authors = ["daisuke tajima <tajima@snami.co.jp>"]
+
+[dependencies]
+libc = "*"
